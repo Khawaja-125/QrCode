@@ -1,0 +1,5 @@
+Center a Box{
+position: fixed/absolute;
+margin: auto;
+inset: 0;
+}
